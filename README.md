@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there 👋
+Hi there 👍
 </h1>
 
 I am Dalhy and I put some shit here when it comes.
