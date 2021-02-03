@@ -2,11 +2,10 @@
 Hi there 👋
 </h1>
 
-<p align="center">
 I am Dalhy and put some snacks here.
-</p>
 
-<p align="center">
+<br>
+
 **💻 • Technologies**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
@@ -19,4 +18,3 @@ I am Dalhy and put some snacks here.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
-</p>
