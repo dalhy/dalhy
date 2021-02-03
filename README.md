@@ -6,7 +6,7 @@ Hi there 👋
 I am Dalhy and put some snacks here.
 </p>
 
-<p align="center";>
+<p align="center">
 **💻 • Technologies**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
