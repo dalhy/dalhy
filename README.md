@@ -1,6 +1,7 @@
 <h1 align="center">
-### Hi there 👋
+Hi there 👋
 </h1>
+<hr>
 
 <p align="center">
 I am Dalhy and put some snacks here.
