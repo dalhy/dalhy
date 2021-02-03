@@ -1,8 +1,12 @@
+<h1 align="center">
 ### Hi there 👋
+</h1>
 
 <p align="center">
-    I am Dalhy and put some snacks here.
+I am Dalhy and put some snacks here.
 </p>
+
+<br>
 
 **• Technologies**
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
