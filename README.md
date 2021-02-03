@@ -2,7 +2,7 @@
 Hi there 👋
 </h1>
 
-I am Dalhy and put some snacks here.
+I am Dalhy and I put some shit here when it comes.
 
 <br>
 
