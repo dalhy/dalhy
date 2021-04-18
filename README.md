@@ -1,10 +1,10 @@
 ## 👀 Hi there...
 
-My name is <strong>Alysson</strong>, but I am known as <strong>Dalhy</strong>.
+  My name is <strong>Alysson</strong>, but I am known as <strong>Dalhy</strong>.
+  
+  I started learning programming around 2018. I am currently <strong>interested in several areas</strong>, especially in <strong>front-end web development</strong>.  
+    - 📬 Send me a message: <strong>Dalhy#3419</strong>
 
-I started learning programming around 2018. I am currently <strong>interested in several areas</strong>, especially in <strong>front-end web development</strong>.
-
-    - 💭 Send me a message: <strong>Dalhy#3419</strong>
 
 ## 💻 Technologies
 
