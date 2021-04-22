@@ -4,7 +4,8 @@
 <p>I started learning programming around 2018. I am currently <strong>interested in several areas</strong>, especially in <strong>front-end web development</strong>.</p>
   
 
- - 📬 Send me a message: <strong>Dalhy#3419</strong>
+ - 💬 Send me a message: <strong>Dalhy#3419</strong>
+ - 📬 Send me a e-mail: <strong>pessoal@dalhy.xyz</strong>
 
 
 ## 💻 Technologies
