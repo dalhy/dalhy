@@ -1,2 +1,2 @@
-- **Python, Rust, MongoDB, MySQL & React. Thats all**
-- **Reach me: dalhy#6731**
+- **Python, C, MongoDB, MySQL & React. Thats all**
+- **Reach me: dalhy#9030**
