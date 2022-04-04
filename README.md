@@ -1,2 +1,3 @@
-- **Python, C, MongoDB, MySQL & React. Thats all**
+- **Python, C, MySQL.**
 - **Reach me on fatcord: dalhy#9030**
+- **Matrix: @dalhy:matrix.org**
